@@ -43,7 +43,6 @@ App.css, Navbar.css, Apply-section.css, About-section.css
 - Each CSS file is scoped to the respective component or section to maintain modularity and organization.  
 - Media queries are used for responsiveness across different screen sizes.  
 
-
-banner.png, landing-background.png, footer-background.png
-These are image files used for the banner, landing background, and footer sections of the website.
-They contribute to the visual appeal and branding of the website.
+banner.png, landing-background.png, footer-background.png  
+- These are image files used for the banner, landing background, and footer sections of the website.  
+- They contribute to the visual appeal and branding of the website.  
